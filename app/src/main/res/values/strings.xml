@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">List View Presiden</string>
+    <string name="nama_presiden">Nama Presiden</string>
+    <string name="biodata_presiden">Biodata Presiden</string>
+</resources>
